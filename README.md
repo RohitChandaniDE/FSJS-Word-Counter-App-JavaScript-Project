@@ -14,7 +14,7 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-count-down-app-js-project.netlify.app/)
+### [HERE](https://fsjs-word-counter-app-js-project.netlify.app/)
 
 ***
 
